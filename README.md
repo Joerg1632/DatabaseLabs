@@ -1,1 +1,15 @@
-Laboratory work on the database course of Novosibirsk State University for the 1st semester
+# 🗄️ Database Labs  
+
+Учебный репозиторий с лабораторными работами по базам данных.  
+Содержит SQL-задания, генерацию данных на Python и создание мини-проектов на Java Spring.  
+
+---
+
+## 📂 Задачи / Branches
+
+| Branch | Task | Description |
+|--------|------|-------------|
+| `sem1` | SQL & Python | Лабораторные работы по SQL, генерация данных для баз данных с помощью Python |
+| `sem2` | Advanced Queries & Java Spring | Сложные кумулятивные запросы на SQL, генерация данных на Python, создание медицинской системы на Java Spring |
+
+---
